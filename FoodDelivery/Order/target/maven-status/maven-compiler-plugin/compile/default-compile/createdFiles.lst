@@ -1,0 +1,8 @@
+com\ust\Order\entity\OrderItem.class
+com\ust\Order\repository\OrderRepo.class
+com\ust\Order\service\OrderService.class
+com\ust\Order\entity\Order.class
+com\ust\Order\controller\OrderController.class
+com\ust\Order\OrderApplication.class
+com\ust\Order\config\WebClientConfig.class
+com\ust\Order\exception\ItemNotAvailableException.class
